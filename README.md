@@ -1,5 +1,5 @@
 # Proxolate
-Proxmox template downloader.
+Proxmox templates downloader.
 
 ## Features
 
