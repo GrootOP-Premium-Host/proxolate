@@ -1,2 +1,2 @@
-# proxoplate
+# proxolate
 Proxmox template downloader.
