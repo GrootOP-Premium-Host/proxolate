@@ -9,7 +9,7 @@ Proxmox templates downloader.
 
 ## Help and support
 
-For help and support regarding the script itself and **not the official Pterodactyl project**, you can join the [Discord Chat](https://discord.grootop.in).
+For help and support regarding the script itself and **not the official Proxmox project**, you can join the [Discord Chat](https://discord.grootop.in).
 
 
 ### Supported operating systems
